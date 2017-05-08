@@ -1,4 +1,4 @@
-# __MNIS-Convol-MNIST-DataPreprocess__
+# __MNIS-Convol-MNIST__
 
 ## __References__
 [1][A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
