@@ -1,3 +1,4 @@
+[![DUB](https://img.shields.io/dub/l/vibe-d.svg)]()
 # __LeNet-MNIS__
 ## __Issue__
 Reprinting the original LeNet proposed in [1998_Gradient-Based Learning Applied to Document Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf) for understanding and practicing LeNet mechanism.
